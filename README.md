@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.credly.com/badges/e4aefe7f-6561-48ab-9b90-60b8e3e2fed3/public_url"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
+<a href="https://www.credly.com/badges/e4aefe7f-6561-48ab-9b90-60b8e3e2fed3/public_url"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="50"></a>
 
 Here are some ideas to get you started:
 
