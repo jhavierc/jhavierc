@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 <a href="https://redux.js.org" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" height="40"/> </a>
-    
-<a href="https://babeljs.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</a>
+<a href="https://golang.org/" target="_blank"> <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="golang" height="40"/> </a>
+<a href="https://www.java.com/es/" target="_blank"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" alt="java" height="40"/> </a>
     
     
 
