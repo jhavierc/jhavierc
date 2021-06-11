@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 
 </br></br>
-<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhavierc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=jhavierc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
