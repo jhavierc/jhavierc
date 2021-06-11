@@ -2,14 +2,6 @@
 
 <a href="https://www.credly.com/badges/e4aefe7f-6561-48ab-9b90-60b8e3e2fed3/public_url"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="65"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working in different projects
-- 🌱 I’m currently studing for Certified Tech Developer
-- 👯 I’m looking to collaborate on freelance projects
-- 💬 Ask me about **AWS, GCP, Devops, Docker, Kubernetes, Deploy in cloud, Java, Spring Boot, Go, React, Angular 2+, Ionic 2+**
-- 📫 How to reach me: **cepeda_357@hotmail.com**
-
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
