@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Javier Cepeda, systems engineer, freelance fullstack developer, Solution Architec and technology lover, I love exploring new technologies. Lover of video games and dogs. 
 
-<a href="https://www.credly.com/badges/e4aefe7f-6561-48ab-9b90-60b8e3e2fed3/public_url" tarjet="_blank"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="65"></a>
+<a href="https://www.credly.com/badges/e4aefe7f-6561-48ab-9b90-60b8e3e2fed3/public_url" tarjet="_blank"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="80"></a>
 
 <!--
 <h3 align="left">Connect with me:</h3>
