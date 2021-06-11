@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" alt="java" height="60"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="java" height="35"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2020/02/Docker-Logo.png" alt="reactnative" width="40" height="40"/> </a> 
-    
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="postman" height="40"/> </a>
+  
 
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a>
 
 
 
