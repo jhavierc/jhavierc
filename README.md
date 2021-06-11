@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4aefe7f-6561-48ab-9b90-60b8e3e2fed3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Here are some ideas to get you started:
 
