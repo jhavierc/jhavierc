@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Javier Cepeda, systems engineer, freelance fullstack developer, Solution Architec and technology lover, I love exploring new technologies. Lover of video games and dogs. 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4aefe7f-6561-48ab-9b90-60b8e3e2fed3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
