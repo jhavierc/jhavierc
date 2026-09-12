@@ -1,68 +1,32 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Javier Cepeda — Tech Lead, Software Architect" />
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=151515&height=180&text=Javier%20Cepeda&fontSize=48&fontColor=79FF97&fontAlignY=40&desc=Tech%20Lead%20%7C%20Software%20Architect%20%7C%20AI%2FML&descAlignY=65&descColor=9f9f9f)
+Tech Lead en el área de **Credits** de **MercadoLibre**, donde diseño arquitecturas escalables para democratizar el comercio y el acceso al crédito en Latinoamérica. Trabajo principalmente con **Java EE, Spring Boot, Golang y Python**, e integro **IA generativa a lo largo de todo el ciclo de vida de desarrollo de software** — diseño, código, testing, documentación y revisión. Actualmente curso una **maestría en Inteligencia Artificial**, y fuera del rol sigo de cerca machine learning, IA aplicada y arquitectura de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=79FF97)](https://www.linkedin.com/in/jhavierc/)
+<details>
+<summary>English version</summary>
+<br>
 
-</div>
+Tech Lead on the **Credits** team at **MercadoLibre**, designing scalable architectures that democratize commerce and access to credit across Latin America. I work primarily with **Java EE, Spring Boot, Golang and Python**, and bring **generative AI into every stage of the software development lifecycle** — design, coding, testing, documentation and review. I'm currently pursuing a **Master's degree in Artificial Intelligence**, and outside the role I follow machine learning, applied AI and software architecture closely.
 
-### 🧑‍💻 Sobre mí / About me
+</details>
 
-- 🏦 **Tech Lead en MercadoLibre** (área *Credits*) — diseño arquitecturas escalables para democratizar el comercio y el crédito en Latinoamérica.
-  *Tech Lead at MercadoLibre (Credits) — designing scalable architectures that democratize commerce and access to credit across Latin America.*
-- 🤖 Integro **IA generativa a lo largo de todo el ciclo de vida de desarrollo de software (SDLC)**: diseño, código, testing, documentación y revisión de código.
-  *I integrate generative AI across the entire software development lifecycle (SDLC): design, coding, testing, documentation and code review.*
-- 🎓 Estudiante de la **Maestría en Inteligencia Artificial**.
-  *Currently pursuing a Master's degree in Artificial Intelligence.*
+### Stack técnico
 
-### 💡 Intereses / Interests
+| Área | Tecnologías |
+|---|---|
+| Backend | ![Java EE](https://img.shields.io/badge/Java%20EE-12141C?style=flat-square&logo=openjdk&logoColor=D4A94C) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-12141C?style=flat-square&logo=springboot&logoColor=D4A94C) ![Go](https://img.shields.io/badge/Go-12141C?style=flat-square&logo=go&logoColor=D4A94C) ![Python](https://img.shields.io/badge/Python-12141C?style=flat-square&logo=python&logoColor=D4A94C) |
+| Cloud & Infraestructura | ![AWS](https://img.shields.io/badge/AWS-12141C?style=flat-square&logoColor=D4A94C) ![Docker](https://img.shields.io/badge/Docker-12141C?style=flat-square&logo=docker&logoColor=D4A94C) ![Kubernetes](https://img.shields.io/badge/Kubernetes-12141C?style=flat-square&logo=kubernetes&logoColor=D4A94C) ![Git](https://img.shields.io/badge/Git-12141C?style=flat-square&logo=git&logoColor=D4A94C) |
+| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12141C?style=flat-square&logo=postgresql&logoColor=D4A94C) |
+| GenAI & IA | ![Claude](https://img.shields.io/badge/Claude-12141C?style=flat-square&logo=anthropic&logoColor=D4A94C) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-12141C?style=flat-square&logo=githubcopilot&logoColor=D4A94C) ![Codex](https://img.shields.io/badge/Codex-12141C?style=flat-square&logoColor=D4A94C) ![Cursor](https://img.shields.io/badge/Cursor-12141C?style=flat-square&logo=cursor&logoColor=D4A94C) |
+| Frontend (soporte) | ![JavaScript](https://img.shields.io/badge/JavaScript-12141C?style=flat-square&logo=javascript&logoColor=D4A94C) ![React](https://img.shields.io/badge/React-12141C?style=flat-square&logo=react&logoColor=D4A94C) |
 
-![Machine Learning](https://img.shields.io/badge/%F0%9F%A7%A0_Machine%20Learning-151515?style=for-the-badge&logoColor=79FF97)
-![Artificial Intelligence](https://img.shields.io/badge/%F0%9F%A4%96_Artificial%20Intelligence-151515?style=for-the-badge&logoColor=79FF97)
-![Software Development](https://img.shields.io/badge/%F0%9F%92%BB_Software%20Development-151515?style=for-the-badge&logoColor=79FF97)
-![Software Architecture](https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Software%20Architecture-151515?style=for-the-badge&logoColor=79FF97)
+### GitHub
 
-### 🛠️ Tech Stack
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=jhavierc&show_icons=true&title_color=F5F1E8&icon_color=D4A94C&text_color=8B8F98&bg_color=12141C" alt="Estadísticas de GitHub" height="165"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhavierc&show_icons=true&locale=es&layout=compact&title_color=F5F1E8&icon_color=D4A94C&text_color=8B8F98&bg_color=12141C" alt="Lenguajes principales" height="165"/></td>
+</tr>
+</table>
 
-**Backend**
-
-![Java EE](https://img.shields.io/badge/Java%20EE-151515?style=for-the-badge&logo=openjdk&logoColor=79FF97)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-151515?style=for-the-badge&logo=springboot&logoColor=79FF97)
-![Golang](https://img.shields.io/badge/Golang-151515?style=for-the-badge&logo=go&logoColor=79FF97)
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=79FF97)
-
-**Cloud & Infraestructura**
-
-![AWS](https://img.shields.io/badge/AWS-151515?style=for-the-badge&logo=amazonaws&logoColor=79FF97)
-![Docker](https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=79FF97)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-151515?style=for-the-badge&logo=kubernetes&logoColor=79FF97)
-![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=79FF97)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=79FF97)
-
-**GenAI & AI Tools**
-
-![Claude](https://img.shields.io/badge/Claude-151515?style=for-the-badge&logo=anthropic&logoColor=79FF97)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-151515?style=for-the-badge&logo=githubcopilot&logoColor=79FF97)
-![Codex](https://img.shields.io/badge/Codex-151515?style=for-the-badge&logoColor=79FF97)
-![Cursor](https://img.shields.io/badge/Cursor-151515?style=for-the-badge&logo=cursor&logoColor=79FF97)
-
-**Frontend** <sub>(soporte / support)</sub>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=79FF97)
-![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=79FF97)
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jhavierc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Javier's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhavierc&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top languages" height="165"/>
-
-</div>
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=151515&height=60&section=footer)
+Conectemos en [LinkedIn](https://www.linkedin.com/in/jhavierc/).
