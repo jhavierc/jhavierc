@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=151515&height=180&text=Javier%20Cepeda&fontSize=48&fontColor=79FF97&fontAlignY=40&desc=Tech%20Lead%20%7C%20Software%20Architect%20%7C%20AI%20%26%20ML&descAlignY=65&descColor=9f9f9f)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=151515&height=180&text=Javier%20Cepeda&fontSize=48&fontColor=79FF97&fontAlignY=40&desc=Tech%20Lead%20%7C%20Software%20Architect%20%7C%20AI%2FML&descAlignY=65&descColor=9f9f9f)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=79FF97)](https://www.linkedin.com/in/jhavierc/)
 
@@ -46,6 +46,8 @@
 
 ![Claude](https://img.shields.io/badge/Claude-151515?style=for-the-badge&logo=anthropic&logoColor=79FF97)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-151515?style=for-the-badge&logo=githubcopilot&logoColor=79FF97)
+![Codex](https://img.shields.io/badge/Codex-151515?style=for-the-badge&logoColor=79FF97)
+![Cursor](https://img.shields.io/badge/Cursor-151515?style=for-the-badge&logo=cursor&logoColor=79FF97)
 
 **Frontend** <sub>(soporte / support)</sub>
 
