@@ -17,10 +17,10 @@
 
 ### 💡 Intereses / Interests
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-151515?style=for-the-badge&logoColor=79FF97)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-151515?style=for-the-badge&logoColor=79FF97)
-![Software Development](https://img.shields.io/badge/Software%20Development-151515?style=for-the-badge&logoColor=79FF97)
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-151515?style=for-the-badge&logoColor=79FF97)
+![Machine Learning](https://img.shields.io/badge/%F0%9F%A7%A0_Machine%20Learning-151515?style=for-the-badge&logoColor=79FF97)
+![Artificial Intelligence](https://img.shields.io/badge/%F0%9F%A4%96_Artificial%20Intelligence-151515?style=for-the-badge&logoColor=79FF97)
+![Software Development](https://img.shields.io/badge/%F0%9F%92%BB_Software%20Development-151515?style=for-the-badge&logoColor=79FF97)
+![Software Architecture](https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Software%20Architecture-151515?style=for-the-badge&logoColor=79FF97)
 
 ### 🛠️ Tech Stack
 
